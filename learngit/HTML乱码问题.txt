@@ -1,0 +1,8 @@
+我用的是google chrome浏览器 在学习HTML上传汉字是必须的，这就出现了乱码问题
+
+在html的头部中添加<meta charset="UTF-8">，如下所示：
+<!DOCTYPE HTML>
+<html>
+<meta charset="UTF-8">
+<head>
+然后保存代码   打开文件    就变成中文简体了
