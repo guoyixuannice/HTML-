@@ -3,7 +3,9 @@
 ```
 sudo add-apt-repository ppa:diesch/testing
 ```
+```
 sudo apt-get update
+```
 ```
 sudo install classicmenu-indicator
 ```
@@ -11,7 +13,9 @@ sudo install classicmenu-indicator
 ```
 sudo add-apt-repository ppa:nilarimogard/webupd8
 ```
+```
 sudo apt-get update
+```
 ```
 sudo apt-get install syspeek
 ```
